@@ -1,5 +1,6 @@
 <?php
 
+// Configuración de la base de datos
 
 $host = 'localhost';
 $dbname = 'coworking_bd';

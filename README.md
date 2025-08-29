@@ -8,8 +8,8 @@ Proyecto desarrollado por **Adrián García Gómez** para la asignatura **Proyec
 
 2. Clona el repositorio y entra al directorio:
    ```bash
-   git clone https://github.com/TU-USUARIO/SISTEMA-DE-GESTION-DE-RESERVAS-COWORKING.git
-   cd SISTEMA-DE-GESTION-DE-RESERVAS-COWORKING
+   git clone https://github.com/GarciaGomezAdrian/COWORKING-RESERVATION-MANAGEMENT-SYSTEM.git
+   cd COWORKING-RESERVATION-MANAGEMENT-SYSTEM
    ```
    
 3. Inicia servidor de desarrollo:
